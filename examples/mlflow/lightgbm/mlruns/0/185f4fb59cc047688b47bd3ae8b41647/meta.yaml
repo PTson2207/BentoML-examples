@@ -1,0 +1,15 @@
+artifact_uri: file:///media/son/421ec117-4a8c-41bb-877a-8ef64efc4154/BentoML/examples/mlflow/lightgbm/mlruns/0/185f4fb59cc047688b47bd3ae8b41647/artifacts
+end_time: 1677920305689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 185f4fb59cc047688b47bd3ae8b41647
+run_name: upbeat-trout-71
+run_uuid: 185f4fb59cc047688b47bd3ae8b41647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677920303666
+status: 4
+tags: []
+user_id: son
