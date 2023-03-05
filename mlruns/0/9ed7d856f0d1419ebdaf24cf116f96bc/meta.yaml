@@ -1,0 +1,15 @@
+artifact_uri: file:///home/son/BentoML-examples/mlruns/0/9ed7d856f0d1419ebdaf24cf116f96bc/artifacts
+end_time: 1678030432659
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ed7d856f0d1419ebdaf24cf116f96bc
+run_name: nebulous-cat-225
+run_uuid: 9ed7d856f0d1419ebdaf24cf116f96bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678030422631
+status: 3
+tags: []
+user_id: son
